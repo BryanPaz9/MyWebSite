@@ -161,15 +161,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #ebebeb;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: #e2e2e2;
 }
 
 a:not([href]):not([tabindex]) {
@@ -1571,7 +1570,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0.075);
+  background-color: rgba(250, 250, 250, 0.075);
 }
 
 .table-primary,
